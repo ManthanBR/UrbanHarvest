@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-UrbanHarvest-0.1";
 const contentToCache = [
-    "Build/git.loader.js",
-    "Build/git.framework.js",
-    "Build/git.data",
-    "Build/git.wasm",
+    "Build/UrbanHarvest.loader.js",
+    "Build/UrbanHarvest.framework.js",
+    "Build/UrbanHarvest.data",
+    "Build/UrbanHarvest.wasm",
     "TemplateData/style.css"
 
 ];
